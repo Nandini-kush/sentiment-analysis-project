@@ -1,0 +1,9 @@
+{
+  "model_name": "Logistic_Regression",
+  "model_type": "ml",
+  "accuracy": 0.9123,
+  "precision": 0.907,
+  "recall": 0.9188,
+  "f1": 0.9129,
+  "roc_auc": 0.97
+}
