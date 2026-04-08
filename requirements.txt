@@ -1,0 +1,24 @@
+# Core
+numpy>=1.23.0
+pandas>=1.5.0
+scikit-learn>=1.2.0
+matplotlib>=3.6.0
+seaborn>=0.12.0
+
+# NLP
+nltk>=3.8.0
+wordcloud>=1.9.0
+
+# Deep Learning
+tensorflow>=2.11.0
+
+# Gradient Boosting
+xgboost>=1.7.0
+
+# Utilities
+tqdm>=4.64.0
+joblib>=1.2.0
+colorama>=0.4.6
+
+# GUI
+# tkinter is built-in with Python — no install needed
